@@ -6,7 +6,7 @@ body {
    width: 1024px;
    height: 863px;
    margin: auto;
-   background: url(../Head-First-JavaScript-Programming-master/chapter8/board.jpg) no-repeat;
+   background: url(./board.jpg) no-repeat;
 
 }
 #messageArea {
@@ -48,8 +48,8 @@ form input {
    outline: none;
 }
 .hit {
-   background: url(../Head-First-JavaScript-Programming-master/chapter8/ship.png) center center no-repeat;
+   background: url(./ship.png) center center no-repeat;
 }
 .miss {
-   background: url(../Head-First-JavaScript-Programming-master/chapter8/miss.png) center center no-repeat;
+   background: url(./miss.png) center center no-repeat;
 }
